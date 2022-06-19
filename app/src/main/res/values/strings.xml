@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoCard</string>
+    <string name="description_photo">photo</string>
+    <string name="achievement_text">Achievements</string>
+    <string name="message_text">message</string>
+    <string name="contacts_text">Contacts</string>
+</resources>
